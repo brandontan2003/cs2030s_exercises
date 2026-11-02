@@ -1,0 +1,13 @@
+schema: "classroom50/repo-config/v1"
+classroom: "exercises"
+assignment: "ex4"
+secret: "nm6zfxal"
+owner:
+  username: "brandontan2003"
+  id: 45449337
+  accepted_at: "2026-09-16T06:06:21Z"
+source:
+  owner: "nus-cs2030s-2627-s1"
+  owner_id: 308691842
+  repo: "ex4-skeleton"
+  branch: "master"
